@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://i.ytimg.com/vi/kWIoZIT1-EE/maxresdefault.jpg"/>
+
 <!--
 **lemarchesi09/lemarchesi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
