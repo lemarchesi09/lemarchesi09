@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Enzo 👋</h1>
 <hr color= "red" />
-###  
+### Info
+<img>
 ## Education
 
 :scroll:![](https://geps.dev/progress/100) Mundos E / Full Stack Web Dev <br/>
