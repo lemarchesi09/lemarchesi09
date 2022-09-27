@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Enzo 👋</h1>
 <hr color= "red" />
-### Info
-<img>
+
+<img src="https://github.com/lemarchesi09/personal-assets/blob/main/linea-colores.png" margin="auto"/>
+![](https://github.com/lemarchesi09/personal-assets/blob/main/linea-colores.png){align="center"}
 ## Education
 
 :scroll:![](https://geps.dev/progress/100) Mundos E / Full Stack Web Dev <br/>
