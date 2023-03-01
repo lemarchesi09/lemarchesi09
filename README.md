@@ -16,9 +16,9 @@
 
 
 :scroll:![](https://geps.dev/progress/100) Mundos E / Full Stack Web Dev <br/>
-:scroll:![](https://geps.dev/progress/80) Digitalers / Front End React <br/>
-:scroll:![](https://geps.dev/progress/80) Avalith / Skill Factory Front End React <br/>
-:scroll:![](https://geps.dev/progress/35) Coursera / Google / UX-UI Basics Aspects <br/>
+:scroll:![](https://geps.dev/progress/100) Digitalers / Front End React <br/>
+:scroll:![](https://geps.dev/progress/100) Avalith / Skill Factory Front End React <br/>
+:scroll:![](https://geps.dev/progress/100) Coursera / Google / UX-UI Basics Aspects <br/>
  
  
 <h2>About Me</h2>
@@ -59,7 +59,7 @@
  </div>
   
  <div align= "center">
-  <h3>:construction: We keep working here... :construction:</h3>
+  <h3>:construction: Working here... :construction:</h3>
  </div>
 <!--
 **lemarchesi09/lemarchesi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
