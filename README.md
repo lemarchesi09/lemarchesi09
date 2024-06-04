@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm Enzo 👋</h1>
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/p43RcvT1LUH7xMVNFX/giphy.gif" width="40"/>
-  <img src="https://media.giphy.com/media/p43RcvT1LUH7xMVNFX/giphy.gif" width="40"/>
-  <img src="https://media.giphy.com/media/p43RcvT1LUH7xMVNFX/giphy.gif" width="40"/>
-</div>
 <div align = "center">
  <img src="https://github.com/lemarchesi09/personal-assets/blob/main/Front_End_Dev_Based_on_Cordoba__Argentina.-removebg-preview.png" margin="auto"/>
 </div>
@@ -14,7 +9,7 @@
 
 <h2>Education</h2>
 
-
+:scroll:![](https://geps.dev/progress/30) ISPC / Software Developer <br/>
 :scroll:![](https://geps.dev/progress/100) Mundos E / Full Stack Web Dev <br/>
 :scroll:![](https://geps.dev/progress/100) Digitalers / Front End React <br/>
 :scroll:![](https://geps.dev/progress/100) Avalith / Skill Factory Front End React <br/>
@@ -26,7 +21,6 @@
  <ul>
   <li>:computer: IT Guy</li>
   <li>:basketball: Baller</li>
-  <li>:paw_prints: Dog's lover, For Real!</li>
   <li>:tent: Camp outside</li>
  </ul>
 </div>
